@@ -10,6 +10,12 @@ header{
     background-color: aquamarine;
     /* border-radius: 20px; */
 }
+main {
+    background-color: aqua;
+}
+footer {
+    background-color: brown;
+}
 .ul2{
     list-style: none;
     display: flex;
